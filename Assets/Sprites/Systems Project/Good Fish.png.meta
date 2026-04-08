@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9d029c92a2d8f7b4bb50f237b6629a10
+guid: fdc4de98645833945b8eca195f00856c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 313197043936953237
-    second: fish_green_0
+      213: -3280455352962576451
+    second: Good Fish_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,43 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fish_green_0
+      name: Good Fish_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 11
-        width: 56
-        height: 40
+        x: 18
+        y: 13
+        width: 28
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59380945d03b85400800000000000000
-      internalID: 313197043936953237
+      spriteID: dbf0321bc3b7972d0800000000000000
+      internalID: -3280455352962576451
       vertices: []
       indices: 
       edges: []
@@ -161,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fish_green_0: 313197043936953237
+      Good Fish_0: -3280455352962576451
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
