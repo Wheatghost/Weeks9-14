@@ -30,6 +30,7 @@ public class Movement : MonoBehaviour
         //read the movement key but also ignore any vertical movement
         movement = context.ReadValue<Vector2>();
         movement.y = 0;
+
     }
 
     //Tossing Fish
